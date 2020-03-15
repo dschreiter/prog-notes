@@ -1,0 +1,26 @@
+
+
+FROM Udemy > Advanced CSS & Sass > no.26 A brief Intro to Cmnd Line
+
+pwd,cd,ls
+
+Toggle Terminal = ^~     
+
+
+Make a folder = mkdir myFolderName
+
+Add File = touch index.html
+
+Copy file = cp example.css
+
+Move file = mv example.css folderNametoMoveTo
+
+Remove file = rm example.css
+
+Remove Folder = rm -r myFolderName
+
+Open File = open example.css
+
+
+
+

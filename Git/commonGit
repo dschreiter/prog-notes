@@ -1,0 +1,22 @@
+
+git --version
+git config --global user.name "dsch"
+git config --global user.email "youremail@gmail.com"
+
+
+git init                        // intialize local git repo
+git add ex.html                 // add files to Index
+git add .                       // add all
+git rm --cached ex.html         // remove file
+git status                      // check status of working tree
+git commit -m 'first commit'    // commit changes to Index
+git checkout -- .               // revert 
+
+git push    // push to remote repo
+git pull    // pull latest from remote repo
+git clone   // clone repo 
+
+
+
+
+
