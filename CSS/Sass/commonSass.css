@@ -28,3 +28,7 @@ body {
 	background-color: #fff;
 	margin: 0;
 }
+
+.warning {
+	background-color: red;
+}
