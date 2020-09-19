@@ -1,3 +1,30 @@
 /*nothing to see here 3*/
 
 /*some additional changes were made*/
+
+.notification-message--msg--1LrLV {
+	position: fixed;
+	left: 100%;
+	bottom: 0;
+	z-index: 9999;
+	width: 436px;
+	transition: transform 0.2s;
+	transform: translate(10%, 0);
+	padding-right: 16px;
+}
+* {
+	box-sizing: border-box;
+}
+user agent stylesheet div {
+	display: block;
+}
+body {
+	font-family: sf pro text, -apple-system, BlinkMacSystemFont, Roboto,
+		segoe ui, Helvetica, Arial, sans-serif, apple color emoji,
+		segoe ui emoji, segoe ui symbol;
+	font-size: 15px;
+	line-height: 1.43;
+	color: #29303b;
+	background-color: #fff;
+	margin: 0;
+}
